@@ -1,0 +1,2 @@
+START_TEXT = "👋 Assalomu alaykum! Bu yerda siz obunachilar, layklar va boshqa xizmatlarni sotib olishingiz mumkin!"
+PAYMENT_INFO = "💳 To'lov uchun: \n\nUzCard: 9860 2401 0155 7264 (M.Shokirov)\nPayme: admin bilan bog'laning.\n\nChekni adminga yuboring: @nucton yoki @matnazar_shokirov"
